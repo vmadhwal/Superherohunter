@@ -8,6 +8,10 @@ body {
     
   }
   .main-wrapper{
+    background-image: url(./images/superhero.jpg);
+    background-repeat: no-repeat;
+    background-position: 50px 350px;
+    background-size: 100%;
     background: black;
     max-width: 1280px;
     width: 100%;
